@@ -1,4 +1,5 @@
 An early attempt to write a GUI TicTacToe program in python.
 
-Currently running using Python 3.5.2
-It should also work with Python 2.7 if the tkinter import line is fixed as indicated in the source file.
+Currently running using Python 3
+If running with Python 2.7 were desired, tkinter would need to change to Tkinter, and
+function annotations and f string syntax would need to be removed
